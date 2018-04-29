@@ -1,7 +1,7 @@
 
 # windows-Credential-Provider-library
 This repository will be updated with all the examples and links that I can find with relevant knowledge &amp; information about CP in MS Windows 7 up to version 10.
-### v0.1.1
+### v0.1.2
 # Links to CP code examples
 ### On GitHub
  - [Windows 8 & 8.1 Sample by Microsoft](https://github.com/Microsoft/Windows-classic-samples/tree/master/Samples/CredentialProvider)`Start from here - if you have knowledge`
@@ -12,6 +12,7 @@ This repository will be updated with all the examples and links that I can find 
  - [MultiotpCPV2RDP](https://github.com/arcadejust/MultiotpCPV2RDP)
  - [multiOTP open source](https://github.com/multiOTP/multiotp)
  - [dxlogin](https://github.com/jwtab/dxlogin) `I recommand to look into this one for is well docommanded CP`
+ - [Phaetto C# Credential Provider](https://github.com/phaetto/windows-credentials-provider)`Do notice that he didnt impelemt logon and worksation`
 ### Links from the web for download / view
  - [https://blogs.technet.microsoft.com/aho/2009/11/14/custom-credential-provider-for-password-reset/](https://blogs.technet.microsoft.com/aho/2009/11/14/custom-credential-provider-for-password-reset/)
  - [https://www.microsoft.com/en-us/download/details.aspx?id=4057](https://www.microsoft.com/en-us/download/details.aspx?id=4057)
