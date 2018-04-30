@@ -1,10 +1,14 @@
-
 # windows-Credential-Provider-library
 This repository will be updated with all the examples and links that I can find with relevant knowledge &amp; information about CP in MS Windows 7 up to version 10.
 ### v0.1.2
-# Fast Breif
-- Tile
-# Links to CP Technical Reference, guides and articles
+# Fast Brief
+![](https://github.com/DavidWeiss2/windows-Credential-Provider-library/blob/master/Login%20Screen.jpg)
+- Left down is the "Tile" every user in MS Windows 10 have one, and a CP can a tile too.
+- middle down is the "Credential-Providers" icons list. a user can select only one at a time.
+- the center middle is the provider field - this time a password field.
+- the "I forgot my PIN" will be shown only for providers that support change password scenario.
+- the title below that will be shown if there are other available CP in this tile.
+# Links to CP Technical Reference, guides, and articles
 - [Dan Griffin - Create Custom Login Experiences With Credential Providers For Windows Vista](Dan%20Griffin%20-%20Create%20Custom%20Login%20Experiences%20With%20Credential%20Providers%20For%20Windows%20Vista.pdf)
 - [Alun Jones - Starting to build your own Credential Provider](https://blogs.msmvps.com/alunj/2011/02/21/starting-to-build-your-own-credential-provider/)
 - [Winlogon and Credential Providers - Microsoft summary page in the MSDN](https://msdn.microsoft.com/en-us/library/windows/desktop/bb648647(v=vs.85).aspx)
