@@ -10,6 +10,8 @@ This repository will be updated with all the examples and links that I can find 
 - [Credential Provider driven Windows Logon Experience - Microsoft Windows 10 technical reference](http://go.microsoft.com/fwlink/?LinkId=717287)
 - [Credential Provider Framework Technical Reference - Microsoft Windows Vista technical reference](modwind.narod.ru/olderfiles/1/Credential_Provider_Technical_Reference.doc)
 # Links to CP code examples
+###
+- [My Micorsoft windows 8 improved example](Microsoft%20Credential%20prvider%20v2%20example%20-%20improved%20docs%20WIP)    `still WIP`
 ### On GitHub
  - [Windows 8 & 8.1 Sample by Microsoft](https://github.com/Microsoft/Windows-classic-samples/tree/master/Samples/CredentialProvider)`Start from here - if you have knowledge`
  - [Windows 7 Samples by Microsoft in one link](https://github.com/Microsoft/Windows-classic-samples/tree/3e987d98a074051dc9cd5c87431d162035f69a24/Samples/Win7Samples/security/credentialproviders)
