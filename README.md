@@ -3,7 +3,7 @@
 This repository will be updated with all the examples and links that I can find with relevant knowledge &amp; information about CP in MS Windows 7 up to version 10.
 ### v0.1.2
 # Links to CP Technical Reference, guides and articles
-- [Dan Griffin - Create Custom Login Experiences With Credential Providers For Windows Vista.pdf](Dan Griffin - Create Custom Login Experiences With Credential Providers For Windows Vista.pdf)
+- [Dan Griffin - Create Custom Login Experiences With Credential Providers For Windows Vista](Dan Griffin - Create Custom Login Experiences With Credential Providers For Windows Vista.pdf)
 - [Alun Jones - Starting to build your own Credential Provider](https://blogs.msmvps.com/alunj/2011/02/21/starting-to-build-your-own-credential-provider/)
 - [Winlogon and Credential Providers - Microsoft summary page in the MSDN](https://msdn.microsoft.com/en-us/library/windows/desktop/bb648647(v=vs.85).aspx)
 - [Credential Providers in Windows 10 - Microsoft Windows 10 summary page in the MSDN (still kind of a WIP)](https://msdn.microsoft.com/en-us/library/windows/desktop/mt158211(v=vs.85).aspx)
