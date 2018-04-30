@@ -1,13 +1,16 @@
 # windows-Credential-Provider-library
 This repository will be updated with all the examples and links that I can find with relevant knowledge &amp; information about CP in MS Windows 7 up to version 10.
 ### v0.1.2
-# Fast Brief
+# Fast brief
+Credential providers are the primary mechanism for user authentication—they currently are the only method for users to prove their identity which is required for logon and other system authentication scenarios. With Windows 10 and the introduction of Microsoft Passport, credential providers are more important than ever; they will be used for authentication into apps, websites, and more.
+currently after you you can provide an authentication option for windows Logon-the login screen in the Image below. or a credential picker UI.
+
 ![](https://github.com/DavidWeiss2/windows-Credential-Provider-library/blob/master/Login%20Screen.jpg)
-- Left down is the "Tile" every user in MS Windows 10 have one, and a CP can a tile too.
-- middle down is the "Credential-Providers" icons list. a user can select only one at a time.
-- the center middle is the provider field - this time a password field.
-- the "I forgot my PIN" will be shown only for providers that support change password scenario.
-- the title below that will be shown if there are other available CP in this tile.
+- Left down is the "Tile" every user in MS Windows 10 have one, and a CP can have a tile too.
+- Middle down is the "Credential-Providers" icons list. a user can select only one at a time. the fields shown are depended on this.
+- The center middle is the provider field/s - this time a password field.
+- The "I forgot my PIN" will be shown only for providers that support change password scenario. the text can be selected.
+- The title below that will be shown if there are other available CP in this tile.
 # Links to CP Technical Reference, guides, and articles
 - [Dan Griffin - Create Custom Login Experiences With Credential Providers For Windows Vista](Dan%20Griffin%20-%20Create%20Custom%20Login%20Experiences%20With%20Credential%20Providers%20For%20Windows%20Vista.pdf)
 - [Alun Jones - Starting to build your own Credential Provider](https://blogs.msmvps.com/alunj/2011/02/21/starting-to-build-your-own-credential-provider/)
@@ -21,11 +24,7 @@ This repository will be updated with all the examples and links that I can find 
 
 - [x] [ICredentialProvider interface](https://msdn.microsoft.com/en-us/library/windows/desktop/bb776042(v=vs.85).aspx) - In one word this is "IT".
 - [x] [ICredentialProviderCredential interface](https://msdn.microsoft.com/en-us/library/windows/desktop/bb776029(v=vs.85).aspx) - Its a MUST if you want to provide a UI interaction.
-- [ ] [ICredentialProviderCredential2 interface](https://msdn.microsoft.com/en-us/library/windows/desktop/hh706912(v=vs.85).aspx) - If you want your provider access option as a access an option in the user tile as an altarntive to the default ICredentialProviderCredential which will give you a new tile.  
-- [ ] []()
-- [ ] []()
-- [ ] []()
-
+- [ ] [ICredentialProviderCredential2 interface](https://msdn.microsoft.com/en-us/library/windows/desktop/hh706912(v=vs.85).aspx) - If you want your provider access option as a access an option in the user tile as an altarntive to the default ICredentialProviderCredential which will give you a new tile.
 # Links to CP code examples
 ###
 - [My Micorsoft windows 8 improved example](Microsoft%20Credential%20prvider%20v2%20example%20-%20improved%20docs%20WIP)    `still WIP`
