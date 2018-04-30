@@ -19,12 +19,9 @@ currently after you you can provide an authentication option for windows Logon-t
 - [Credential Provider driven Windows Logon Experience - Microsoft Windows 10 technical reference](http://go.microsoft.com/fwlink/?LinkId=717287)
 - [Credential Provider Framework Technical Reference - Microsoft Windows Vista technical reference](modwind.narod.ru/olderfiles/1/Credential_Provider_Technical_Reference.doc)
 # Links to CP API - Windows 10
-- [x] Are MUST to implement and
-- [ ] are not, but adding functionality.
-
-- [x] [ICredentialProvider interface](https://msdn.microsoft.com/en-us/library/windows/desktop/bb776042(v=vs.85).aspx) - In one word this is "IT".
-- [x] [ICredentialProviderCredential interface](https://msdn.microsoft.com/en-us/library/windows/desktop/bb776029(v=vs.85).aspx) - Its a MUST if you want to provide a UI interaction.
-- [ ] [ICredentialProviderCredential2 interface](https://msdn.microsoft.com/en-us/library/windows/desktop/hh706912(v=vs.85).aspx) - If you want your provider access option as a access an option in the user tile as an altarntive to the default ICredentialProviderCredential which will give you a new tile.
+- [ICredentialProvider interface](https://msdn.microsoft.com/en-us/library/windows/desktop/bb776042(v=vs.85).aspx) - This is the CP, the other two are just UI.
+- [ICredentialProviderCredential interface](https://msdn.microsoft.com/en-us/library/windows/desktop/bb776029(v=vs.85).aspx) - Its a MUST if you want to provide a UI interaction.
+- [ICredentialProviderCredential2 interface](https://msdn.microsoft.com/en-us/library/windows/desktop/hh706912(v=vs.85).aspx) - If you want your provider to be listed under the user tile you MUST implement this, othewiwe you will gain you own tile.
 # Links to CP code examples
 ###
 - [My Micorsoft windows 8 improved example](Microsoft%20Credential%20prvider%20v2%20example%20-%20improved%20docs%20WIP)    `still WIP`
