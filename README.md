@@ -2,6 +2,8 @@
 # windows-Credential-Provider-library
 This repository will be updated with all the examples and links that I can find with relevant knowledge &amp; information about CP in MS Windows 7 up to version 10.
 ### v0.1.2
+# Fast Breif
+- Tile
 # Links to CP Technical Reference, guides and articles
 - [Dan Griffin - Create Custom Login Experiences With Credential Providers For Windows Vista](Dan%20Griffin%20-%20Create%20Custom%20Login%20Experiences%20With%20Credential%20Providers%20For%20Windows%20Vista.pdf)
 - [Alun Jones - Starting to build your own Credential Provider](https://blogs.msmvps.com/alunj/2011/02/21/starting-to-build-your-own-credential-provider/)
@@ -9,6 +11,17 @@ This repository will be updated with all the examples and links that I can find 
 - [Credential Providers in Windows 10 - Microsoft Windows 10 summary page in the MSDN (still kind of a WIP)](https://msdn.microsoft.com/en-us/library/windows/desktop/mt158211(v=vs.85).aspx)
 - [Credential Provider driven Windows Logon Experience - Microsoft Windows 10 technical reference](http://go.microsoft.com/fwlink/?LinkId=717287)
 - [Credential Provider Framework Technical Reference - Microsoft Windows Vista technical reference](modwind.narod.ru/olderfiles/1/Credential_Provider_Technical_Reference.doc)
+# Links to CP API - Windows 10
+- [x] Are MUST to implement and
+- [ ] are not, but adding functionality.
+
+- [x] [ICredentialProvider interface](https://msdn.microsoft.com/en-us/library/windows/desktop/bb776042(v=vs.85).aspx) - In one word this is "IT".
+- [x] [ICredentialProviderCredential interface](https://msdn.microsoft.com/en-us/library/windows/desktop/bb776029(v=vs.85).aspx) - Its a MUST if you want to provide a UI interaction.
+- [ ] [ICredentialProviderCredential2 interface](https://msdn.microsoft.com/en-us/library/windows/desktop/hh706912(v=vs.85).aspx) - If you want your provider access option as a access an option in the user tile as an altarntive to the default ICredentialProviderCredential which will give you a new tile.  
+- [ ] []()
+- [ ] []()
+- [ ] []()
+
 # Links to CP code examples
 ###
 - [My Micorsoft windows 8 improved example](Microsoft%20Credential%20prvider%20v2%20example%20-%20improved%20docs%20WIP)    `still WIP`
