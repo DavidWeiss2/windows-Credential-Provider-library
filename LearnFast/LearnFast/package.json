@@ -1,0 +1,9 @@
+{
+  "name": "learn-fast",
+  "version": "0.0.0",
+  "description": "LearnFast",
+  "main": "server.js",
+  "author": {
+    "name": "david"
+  }
+}
