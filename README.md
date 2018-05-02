@@ -41,3 +41,5 @@ currently after you you can provide an authentication option for windows Logon-t
  - [https://code.msdn.microsoft.com/windowsapps/V2-Credential-Provider-7549a730](https://code.msdn.microsoft.com/windowsapps/V2-Credential-Provider-7549a730)`its the same one as the windows 8 from above but without the update's.`
  - [https://msdn.microsoft.com/en-us/library/cc540483.aspx](https://msdn.microsoft.com/en-us/library/cc540483.aspx)
  - [Signature-based User Authentication ***PDF***](https://is.cuni.cz/webapps/zzp/download/120183949)`very useful`
+### Background on the Windows Logon Process
+- Yoni Avital presention - E2EVC 2015 [Diving into Windows Logon Process](https://www.youtube.com/watch?v=aCVdGUjP72Q)
