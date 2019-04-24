@@ -29,6 +29,7 @@ currently after you you can provide an authentication option for windows Logon-t
  - [Windows 8 & 8.1 Sample by Microsoft](https://github.com/Microsoft/Windows-classic-samples/tree/master/Samples/CredentialProvider)`Start from here - if you have knowledge`
  - [Windows 7 Samples by Microsoft in one link](https://github.com/Microsoft/Windows-classic-samples/tree/3e987d98a074051dc9cd5c87431d162035f69a24/Samples/Win7Samples/security/credentialproviders)
  - [pGina](https://github.com/pgina/pgina)`Start from here - if you want to quick implement without to realy know whats going on. `
+ - [pGina FORK](https://github.com/MutonUfoAI/pgina/)`The fork was created first simply because it's the way to contribute on Github. Later on due to time pressure and a refused pull request. Now the code differs so much that it's hard to merge it back again. `
  - [MultiOneTimePassword](https://github.com/LastSquirrelIT/MultiOneTimePassword-CredentialProvider)
  - [multiOTPCredentialProvider](https://github.com/multiOTP/multiOTPCredentialProvider)
  - [MultiotpCPV2RDP](https://github.com/arcadejust/MultiotpCPV2RDP)
