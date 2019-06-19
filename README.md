@@ -39,7 +39,7 @@ currently after you you can provide an authentication option for windows Logon-t
 ### Links from the web for download / view
  - [https://blogs.technet.microsoft.com/aho/2009/11/14/custom-credential-provider-for-password-reset/](https://blogs.technet.microsoft.com/aho/2009/11/14/custom-credential-provider-for-password-reset/)
  - [https://www.microsoft.com/en-us/download/details.aspx?id=4057](https://www.microsoft.com/en-us/download/details.aspx?id=4057)
- - [https://code.msdn.microsoft.com/windowsapps/V2-Credential-Provider-7549a730](https://code.msdn.microsoft.com/windowsapps/V2-Credential-Provider-7549a730)`its the same one as the windows 8 from above but without the update's.`
+ - [https://code.msdn.microsoft.com/windowsapps/V2-Credential-Provider-7549a730](https://code.msdn.microsoft.com/windowsapps/V2-Credential-Provider-7549a730)`its the same one as the windows 8 from above but without the updates.`
  - [https://msdn.microsoft.com/en-us/library/cc540483.aspx](https://msdn.microsoft.com/en-us/library/cc540483.aspx)
  - [Signature-based User Authentication ***PDF***](https://is.cuni.cz/webapps/zzp/download/120183949)`very useful`
 ### Background on the Windows Logon Process
