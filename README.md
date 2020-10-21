@@ -19,6 +19,7 @@ currently after you you can provide an authentication option for windows Logon-t
 - [Credential Provider driven Windows Logon Experience - Microsoft Windows 10 technical reference](http://go.microsoft.com/fwlink/?LinkId=717287)
 - [Credential Provider Framework Technical Reference - Microsoft Windows Vista technical reference](modwind.narod.ru/olderfiles/1/Credential_Provider_Technical_Reference.doc)
 - [Creating Custom Windows Credential Providers in .NET - By Steve Syfuhs October 15, 2017](https://syfuhs.net/2017/10/15/creating-custom-windows-credential-providers-in-net/)
+- [Random Musings About Windows Credential Providers and Authentication Packages - rileyg98](https://gist.github.com/rileyg98/228bed3040034be3b03f39aec8dbed72)
 # Links to CP API - Windows 10
 - [ICredentialProvider interface](https://msdn.microsoft.com/en-us/library/windows/desktop/bb776042(v=vs.85).aspx) - This is the CP, the other two are just UI.
 - [ICredentialProviderCredential interface](https://msdn.microsoft.com/en-us/library/windows/desktop/bb776029(v=vs.85).aspx) - Its a MUST if you want to provide a UI interaction.
