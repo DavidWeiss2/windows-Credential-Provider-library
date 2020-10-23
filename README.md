@@ -5,6 +5,8 @@ This repository will be updated with all the examples and links that I can find 
 Credential providers are the primary mechanism for user authentication—they currently are the only method for users to prove their identity which is required for logon and other system authentication scenarios. With Windows 10 and the introduction of Microsoft Passport, credential providers are more important than ever; they will be used for authentication into apps, websites, and more.
 currently after you you can provide an authentication option for windows Logon-the login screen in the Image below. or a credential picker UI.
 
+To learn more about the windows authentication proccess please read: [Sonny articale on medium](https://medium.com/@browninfosecguy/windows-authentication-and-attacks-101-part-a-dbe757f2f436)
+
 ![](https://github.com/DavidWeiss2/windows-Credential-Provider-library/blob/master/Login%20Screen.jpg)
 - Left down is the "Tile" every user in MS Windows 10 have one, and a CP can have a tile too.
 - Middle down is the "Credential-Providers" icons list. a user can select only one at a time. the fields shown are depended on this.
