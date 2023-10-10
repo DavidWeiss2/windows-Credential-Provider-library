@@ -45,6 +45,6 @@ To learn more about the windows authentication proccess please read: [Sonny arti
  - [https://www.microsoft.com/en-us/download/details.aspx?id=4057](https://www.microsoft.com/en-us/download/details.aspx?id=4057)
  - [https://code.msdn.microsoft.com/windowsapps/V2-Credential-Provider-7549a730](https://code.msdn.microsoft.com/windowsapps/V2-Credential-Provider-7549a730)`its the same one as the windows 8 from above but without the updates.`
  - [https://msdn.microsoft.com/en-us/library/cc540483.aspx](https://msdn.microsoft.com/en-us/library/cc540483.aspx)
- - [Signature-based User Authentication ***PDF***](https://is.cuni.cz/webapps/zzp/download/120183949)`very useful`
+ - [Signature-based User Authentication ***PDF***](https://dspace.cuni.cz/bitstream/handle/20.500.11956/62580/DPTX_2014_1_11320_0_392301_0_157676.pdf?sequence=1&isAllowed=y)`very useful`
 ### Background on the Windows Logon Process
 - Yoni Avital presention - E2EVC 2015 [Diving into Windows Logon Process](https://www.youtube.com/watch?v=aCVdGUjP72Q)
